@@ -1,1 +1,1 @@
-This reposetory contains all supervised models and projects done by me. please reado steps to use file beofre accessing
+This reposetory contains all Unsupervised models and projects done by me. please read steps to use file beofre accessing
