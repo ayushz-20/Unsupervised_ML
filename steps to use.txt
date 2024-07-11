@@ -1,0 +1,1 @@
+run using annaconda - jupyter notebook / google colab or install jupyter in dekstop and extensions for vs code
