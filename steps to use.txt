@@ -1,1 +1,1 @@
-run using annaconda - jupyter notebook , jupyter Notebook or Google collab or any other ipynb supporting Runner . Strongly Suggest this
+run using annaconda - jupyter notebook , jupyter Notebook or Google collab or any other ipynb supporting Runner . Strongly Suggest this to run
